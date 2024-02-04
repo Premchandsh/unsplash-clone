@@ -1,3 +1,5 @@
+What is HEIF Image Extension ?
+
 The HEIF Image Extension enables Windows 10 devices to read and write files that use the High Efficiency Image File (HEIF) format. Such files can have a .heic or .heif file extension.
 
 Images that are stored in HEIF files that have the .heic file extension are compressed using the HEVC format. Such files require the HEVC Video Extensions package to be installed as well. If the HEVC Video Extensions package is not installed, the HEIF Image Extension will not be able to read or write .heic files.
